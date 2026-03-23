@@ -325,7 +325,7 @@ function Delivery() {
 
 //Для отправки заявки
 const EMAILJS_SERVICE_ID  = "service_q7079se";   
-const EMAILJS_TEMPLATE_ID = "template_vk6wk5a";  
+const EMAILJS_TEMPLATE_ID = "template_chw9kvb";   
 const EMAILJS_PUBLIC_KEY  = "A2qTYe4R4GrdZ6IAd";    
 
 function Contacts() {
